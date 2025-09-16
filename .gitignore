@@ -5,7 +5,6 @@ Intermediate/
 Saved/
 
 # Ignore IDE/project user files
-.vscode/
 *.suo
 *.pdb
 *.opensdf
@@ -26,3 +25,5 @@ Script/
 
 # Windows specific
 Thumbs.db
+config.bat
+node_modules
