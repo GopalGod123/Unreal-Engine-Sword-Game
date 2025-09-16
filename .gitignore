@@ -1,0 +1,28 @@
+# Ignore temp files and caches
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore IDE/project user files
+.vscode/
+*.suo
+*.pdb
+*.opensdf
+*.sdf
+*.log
+*.tmp
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+
+# Ignore build outputs
+Build/
+Script/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
